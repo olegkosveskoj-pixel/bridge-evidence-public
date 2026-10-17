@@ -1,0 +1,38 @@
+﻿{
+  "cards": [
+    "2504",
+    "2520",
+    "2525",
+    "2527",
+    "2535",
+    "2536",
+    "2544",
+    "2549",
+    "2701",
+    "2711",
+    "2714",
+    "2715",
+    "2722"
+  ],
+  "count": 13,
+  "verdict": "pending_independent_review",
+  "out": "logs/card_visual_frames_20261017",
+  "sha256": {
+    "2504": "3832255fedbf3f5a8c9a904fdffeb151b156d7953143796696b1c760219adae3",
+    "2520": "bb3ac3de6bfca2292d1216e463ade68b822e091c06045bee06ecd27b2d091152",
+    "2525": "e6362362febcab5dce9dad942492ee2fde8e7f5d0d2f0e43bdf354e083639138",
+    "2527": "4eba269a2b532a82e0f3fdb2564d7dc0de7a378ecea5a94d111e812a0d108ec8",
+    "2535": "5f65210d448eef50e39395a3293ec89080c9655969882be7b375438eab57815f",
+    "2536": "0eb7243b61012d505ebfd4aecabd7379906209d3ecb163b0eedef5e9dd1e7819",
+    "2544": "4a70044a71ad4f66f33b18c64397f0ca936d1e25e64e9ba9ab7bfea311776190",
+    "2549": "1213de695a3803b0d4ba59161a818f18f122a8855fbdbaf39ab55beaeca838eb",
+    "2701": "0263ed96d4f77b1f96b64412a738588eb8cffd3ad80e4991132021cb79b51a30",
+    "2711": "854e74765028f2549b7f6baf40fb084bd9ddb9ee3461e551b1c346cc7ab9db79",
+    "2714": "ef6e87a689248a8bcf6fd4d76e5cdeb0c08cbefad3268a40d1aebb8ba36ace4c",
+    "2715": "9de594a97aea23e04da68bc7dfbc42da4631e2a151df13f1af36a3384eef1890",
+    "2722": "76752463780fc6a244fcece6a39c8d959adba4cb934504234f6cccb1eec9c00d"
+  },
+  "duplicate_shas": {},
+  "unique_ok": true
+}
+
