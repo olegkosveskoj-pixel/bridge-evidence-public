@@ -1,0 +1,46 @@
+{
+  "problem_id": "GAME_AUDIT_RULE11_CARD_VISUAL",
+  "evidence_class": "VISUAL",
+  "evidence_protocol": "BRIDGE_EVIDENCE_V2",
+  "acceptance": "19/20",
+  "rule": "RULE11",
+  "batch": 2,
+  "visual_batch_max": 8,
+  "card_ids": [
+    "2701",
+    "2711",
+    "2714",
+    "2715",
+    "2722"
+  ],
+  "schema_ready_ids_all_13": [
+    "2504",
+    "2520",
+    "2525",
+    "2527",
+    "2535",
+    "2536",
+    "2544",
+    "2549",
+    "2701",
+    "2711",
+    "2714",
+    "2715",
+    "2722"
+  ],
+  "batch1_already_published": [
+    "2504",
+    "2520",
+    "2525",
+    "2527",
+    "2535",
+    "2536",
+    "2544",
+    "2549"
+  ],
+  "remaining_schema_ready_next_batch": [],
+  "verdict_needed": "PASS|FAIL|NEEDS_EVIDENCE per card (independent visual review)",
+  "stamp_policy": "Do NOT stamp card verified / RULE11 from this alone until GPT PASS + full gate.",
+  "source_dir": "logs/card_visual_frames_20261017/",
+  "blocker": "logs/rule11_card_blocker_20261017.json"
+}
